@@ -1,7 +1,7 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
-###Deeployment Link
-  https://nxttrend179.ccbp.tech/
-###Credentials
+### Deployment Link
+  - https://nxttrend179.ccbp.tech/
+### Credentials
 - Prime User credentials
 
   ```text
